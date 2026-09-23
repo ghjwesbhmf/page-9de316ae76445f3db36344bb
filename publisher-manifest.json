@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b5cf1069b98f2111188ea765",
+  "owner": "ghjwesbhmf",
+  "repo": "page-9de316ae76445f3db36344bb",
+  "title": "隐秘网络(SCRTNET)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9de316ae76445f3db36344bb",
+      "a": "隐秘网络(SCRTNET)",
+      "b": "2027官方最新地址导航",
+      "entity": "隐秘网络(SCRTNET)",
+      "brand": "隐秘网络(SCRTNET)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8583fb42c96efcdc18600c95cff4ccbc1b542b464b450753d693ccf561f9d112",
+      "content": {
+        "primary_entity": "隐秘网络(SCRTNET)",
+        "keyword1": "隐秘网络(SCRTNET)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备平台选择客户端，导入订阅后即可连接节点。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择套餐，按客户端文档配置订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选择适合的套餐开始连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 到 1000GB 月流量与 3 到 20 台设备在线需求，适合个人流媒体观看、游戏加速及团队协作场景。",
+          "AI_FEATURES_INTRO": "从流量、设备数与订阅周期三个角度对比套餐，找到匹配使用场景的方案。",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合单人轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，5 台设备在线，含 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备在线，适合小型团队共享。",
+          "AI_FEATURE_TITLE_1": "流量档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从选择套餐到连接节点，按三个步骤完成基本配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "隐秘网络(SCRTNET)为跨境访问与流媒体场景提供多档海外加速套餐，用户可根据设备数量与流量需求选择基础版、旗舰版或团队版，并按客户端文档完成订阅导入。",
+          "AI_HERO_SUBTITLE": "多档套餐适配设备与流量需求",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15，年付 ¥150",
+          "AI_HIGHLIGHT_2": "旗舰版月付 ¥35，年付 ¥350",
+          "AI_HIGHLIGHT_3": "团队版月付 ¥85，年付 ¥850",
+          "AI_PLANS_INTRO": "基础版 100GB 流量适配 3 台设备；旗舰版 300GB 流量适配 5 台设备；团队版 1000GB 流量适配 20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版或团队版中选择一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的在线设备上限与流量额度，确认是否符合日常使用场景。",
+          "AI_STEP_TEXT_3": "按照对应客户端的订阅导入文档添加节点，完成连接配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "隐秘网络套餐速览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "套餐选择、设备数量与订阅周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要差别在哪？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备、普通线路节点池，解锁基础流媒体；旗舰版每月 300GB、5 台设备，接入 IPLC 专线并支持全节点原生流媒体解锁，另有优先工单支持。",
+          "AI_FAQ_QUESTION_2": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_2": "团队版每月 1000GB、20 台设备同时在线，提供 VIP 专属高带宽节点与定制路由，适合小型团队共享或设备较多的办公环境，并配有专属客户经理。",
+          "AI_FAQ_QUESTION_3": "年付比月付划算多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15，年付 ¥150；旗舰版月付 ¥35，年付 ¥350；团队版月付 ¥85，年付 ¥850，年付相当于免去两个月费用。",
+          "AI_FAQ_QUESTION_4": "可以在哪些设备上使用？",
+          "AI_FAQ_ANSWER_4": "支持常见桌面与移动客户端，具体可在客户端文档中查看各平台说明。不同套餐允许同时在线的设备数量不同，基础版 3 台、旗舰版 5 台、团队版 20 台。",
+          "AI_FAQ_QUESTION_5": "如何更换已选的套餐？",
+          "AI_FAQ_ANSWER_5": "可根据当前用量与设备变化升级到更高档位，具体调整方式以购买页说明为准。升级前建议先核对月流量与设备数量是否满足需求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fengersp.cn",
+    "host": "fengersp.cn"
+  },
+  "file_hashes": {
+    "index.html": "c77eff234b9878a74c9b764f7ad13a5ba12ae3330317ccc749609068618444f0",
+    "sitemap.xml": "eadb074889eea08e6fde9c592846d66ae39f7720559c853d1bbf66a3045dd08f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3f6da6e1637f8d4b4a983dd1c8ed27bfeb598038a8dd9dad220184bb60c7a287",
+    "robots.txt": "eb5383ed8767e68a15138743af7d302bcb8e1f02a5455501078f6690e91bdd14",
+    "0840747b16453b2fa351bab7cc55d7cf.txt": "718e147b218c014609dd7f450b02500deb762d119dc88770de66a84e31f7e0c5"
+  },
+  "revision": "a71dd2b340ab0ea1375d8232c988d0d529e7c1ee1505f0213d7159996bbc6052"
+}
